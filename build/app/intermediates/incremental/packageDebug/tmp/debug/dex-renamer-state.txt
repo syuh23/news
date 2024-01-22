@@ -1,0 +1,4 @@
+#Mon Jan 22 11:28:45 KST 2024
+base.0=D\:\\yundoll\\flutter\\nara\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
